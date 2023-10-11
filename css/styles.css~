@@ -1,6 +1,7 @@
 <!DOCTYPE html>
+<html lang="en">
 <head>
-    <link rel="stylesheet" href="css/styles.css">
+    <link rel="stylesheet" href="styles.css">
     <title>Mariia's Page</title>
 </head>
 <body>
@@ -9,7 +10,7 @@
     </header>
     <section>
         <h2>Part 3 Exercise: Hosting your web page on GitHub</h2>
-        <img src="images/photo1.jpeg" alt="Software Engineering Image">
+        <img src="photo1.jpeg" alt="Software Engineering Image">
         <a href="https://www.imperial.ac.uk/computing/current-students/courses/70085/">A link to the module webpage</a>
         <p>
             My name is Mariia and my background is in design and architecture. 
@@ -22,4 +23,3 @@
     </footer>
 </body>
 </html>
-
